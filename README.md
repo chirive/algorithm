@@ -1,1 +1,1 @@
-insert something
+It's a new statement;
