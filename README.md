@@ -1,3 +1,5 @@
-It's a new statement; 
-what is meaning of "be ahead of"?
-陈文比我小一岁，整整一岁
+先从基本算法开始
+1.快速排序
+2.归并排序
+3.堆排序
+4.桶排序
